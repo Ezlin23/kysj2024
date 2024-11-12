@@ -1,0 +1,1002 @@
+[
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize La4Ti9O24?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize TiO2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize CoFe2O4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZnCo2O4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Cu39S28?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize AgPb10LaTe12?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize EuVO4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Fe2O3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Li1.13(Mn0.534Ni0.233Co0.233)0.87O2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Fe3O4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize MnCO3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Li2CoSiO4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize NiO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize (Y0.95Eu0.05)2O3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZrO2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZnO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Mn3PbCoO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize H2Ti3O7?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize WO3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize TiO2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Fe3O4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Fe2O3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize (CH3CH2NH3)Yb0.80Er0.20(HCOO)4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize AlOOH?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Sb3O4F?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize CdS?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize MoSe2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize NiCrxFe2-xO4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Gd(OH)3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize NiCoPO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize CuO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Na2O?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize MgO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Y2O3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize NixCo3-xO4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZnO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize NaYF4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize CeO2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZnS?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Co3O4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Ag?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize In2O3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Mo8V2Sb90O?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Li(Mnx(Mn1-y-zNiyCoz)1-x)2O4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize CuO-ZnO-Al2O3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize V3(PO4)5?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Ag2MoO4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZnO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Zn2SnO4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Mo8O26?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize VO2TiO2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Al2O3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ((Ni(22\u2032-bpy)2(H2O))2(Ni(22\u2032-bpy))2(Ni4(H2O)2(B-\u03b1-XW9O34)2))n?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize SrF2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Fe3O4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize H2Ti3O7?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Y2O3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Na0.5(NH4)0.5(Sn4(PO4)3)?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize SiO2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize NaLuF4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize NaY(MoO4)2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Li1+x(Fe0.25Mn0.75)1-xO2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize LiNi0.5Mn1.5O4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Cs0.33WO3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZnO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize C?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize NiO-MgO-Al2O3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize SnO2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize MnCO3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize LixV2O5?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Fe2O3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZnO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize TiO2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize BiNbO4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize MgO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize NaYF4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Co3O4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Zn2SnO4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Zn2GeO4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize NiCo2S4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Ba0.8Sr0.2TiO3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Fe2O3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Lu(OH)3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZrO2-(OH)2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZnO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize FeCO3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize (NH4)2NaVF6?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize WaFeO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Li(Ni1/3Co1/3Mn1/3)O2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize MnO2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Mn2O7?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Al2O3?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize MoS2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize CoS2?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Fe3O4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZnO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize SrMoO4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZnO?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize Co3O4?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You are a helpful AI assistant in Material Science."
+        },
+        {
+            "role": "user",
+            "content": "How to synthesize ZnO?"
+        }
+    ]
+]
